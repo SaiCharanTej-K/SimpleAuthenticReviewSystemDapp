@@ -72,6 +72,8 @@ After successful deployment in Remix:
 
 
 ![image](https://github.com/user-attachments/assets/eb5741d6-ff96-4523-8516-ca781b58aa60)
+![image](https://github.com/user-attachments/assets/b68f0c06-b01f-4452-9cc1-43af15269561)
+
 
 And finally run it using open with `Live Server` in VS Code.
 
