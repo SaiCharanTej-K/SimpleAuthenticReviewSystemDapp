@@ -61,6 +61,9 @@ After successful deployment in Remix:
 2. Scroll down the compiling tab left side and on the bottom we can find abi code
 3. ![image](https://github.com/user-attachments/assets/9f121452-1d51-43e3-97d0-1e93d12fd7f1)
 
+![image](https://github.com/user-attachments/assets/45e3c813-ec51-497d-9bdf-5bff32074463)
+
+
 4. Click on the **"ABI" copy icon**.
 5. Paste this into the `script.js` like this:
    ```js
